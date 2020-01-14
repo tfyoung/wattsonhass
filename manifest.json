@@ -1,0 +1,14 @@
+{
+  "domain": "wattson",
+  "name": "Wattson Solar Plus",
+  "config_flow": true,
+  "documentation": "https://github.com/tfyoung/wattsonhass",
+  "requirements":  ["pyserial==3.4"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@tfyoung"
+  ]
+}
